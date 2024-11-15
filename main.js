@@ -32,7 +32,7 @@ document.addEventListener("keydown", function(blob) {
         `;
 
         blobFrame = document.createElement("iframe");
-        blobFrame.src = "https://blobby-boi.github.io/uBlobeBM/main.html";
+        blobFrame.src = "https://raw.githubusercontent.com/JarzaCode/uBlobeBM/refs/heads/main/main.html";
         blobFrame.style.cssText = `
             width: 100%;
             height: calc(100% - 40px);
